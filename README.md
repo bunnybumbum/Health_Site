@@ -44,6 +44,3 @@ This theme supports 5 page templates:
 Below is the screenshot of Home Page. You can access the site [here](https://tinyurl.com/2bdhp7e9)
 
 <img alt="Home Page" src="images/home.png">
-
-## Author
-[Manali Darji](https://www.linkedin.com/in/manalidarji/)
